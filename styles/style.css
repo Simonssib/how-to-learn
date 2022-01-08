@@ -156,6 +156,7 @@
   font-weight: normal;
   color: white;
   text-align: center;
+  z-index: 2;
 }
 
 .table {
