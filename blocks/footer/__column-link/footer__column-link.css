@@ -5,4 +5,10 @@
     text-decoration: none;
     color: white;
     margin-left: 0px;
+    transition-property: opacity;
+    transition-duration: .35s;
+    transition-timing-function: linear;
+  }
+.footer__column-link:hover {
+    opacity: 0.4;
   }

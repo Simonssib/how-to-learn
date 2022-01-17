@@ -7,4 +7,13 @@
     top: 50%;
     text-decoration: none;
     color: #2f80ed;
+    transition-property: opacity;
+    transition-duration: .35s;
+    transition-timing-function: linear;
+    z-index: 1;
   }
+
+.feynman__link:hover {
+    opacity: 40%;
+  }
+  

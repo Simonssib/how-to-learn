@@ -7,4 +7,11 @@
     text-decoration: none;
     transition: opacity 1s linear;
     align-self: start;
+    transition-property: opacity;
+    transition-duration: .35s;
+    transition-timing-function: linear;
   }
+.khan__buy-link:hover {
+    opacity: 0.4;
+  }
+  
