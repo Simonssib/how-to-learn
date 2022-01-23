@@ -10,8 +10,8 @@
     transition-property: opacity;
     transition-duration: .35s;
     transition-timing-function: linear;
-  }
+}
+
 .khan__buy-link:hover {
     opacity: 0.4;
-  }
-  
+}
